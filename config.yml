@@ -10,6 +10,7 @@ params:
     homeInfoParams:
               Title: Hello! Welcome to Amaro 101  
               Content: "This site is meant to be a simple introduction to Amaro: it's history, production, common ingredients, types, and some examples."
+              
 
 menu:
     main:

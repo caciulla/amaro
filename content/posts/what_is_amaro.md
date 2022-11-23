@@ -8,7 +8,7 @@ cover:
   alt:
   caption:
 ---
-
+![amaro class](../images/amaro_class.jpeg)
 What is Amaro? (Plural: Amari)
 
 Italian word for bitter
