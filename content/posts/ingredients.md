@@ -8,32 +8,32 @@ cover:
   alt:
   caption:
 ---
-Common bittering ingredients:
+### Common bittering ingredients:
 
-■ Cinchona bark
-■ Gentian root
-■ Wormwood
-Angelica root
+* Cinchona bark
+* Gentian root
+* Wormwood
+* Angelica root
 
 <!-- A brief description of each one? Medicinal quality? History in medicine? Monks Doctors and Health elixirs? Percentage of components? Number of ingredients per amaro? Chartreuse? Benedictine?  -->
 
-○ Common additional ingredients:
-■ Cardamom
-■ Chamomile
-■ Rhubarb
-■ Mint
-■ Orange peel
-■ Fennel
-■ Artichoke
-■ Eucalyptus
-■ Juniper
-■ Ginger
-■ Cardoon
-■ Clove
-■ Anise
-■ Saffron
-■ Sage
-■ Aloe ferox
+### Common additional ingredients:
+* Cardamom
+* Chamomile
+* Rhubarb
+* Mint
+* Orange peel
+* Fennel
+* Artichoke
+* Eucalyptus
+* Juniper
+* Ginger
+* Cardoon
+* Clove
+* Anise
+* Saffron
+* Sage
+* Aloe ferox
 
 ● Some Amari are made using wine as a base. Others are made from neutral spirit. Still
 others are made from a grape distillate.
