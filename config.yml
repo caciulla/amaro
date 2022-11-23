@@ -1,0 +1,28 @@
+baseURL: ''
+languageCode: en-us
+title: Amaro 101
+theme: PaperMod
+params:
+    defaultTheme: auto 
+
+    ShowPostNavLinks: true
+    ShowBreadCrumbs: true
+    homeInfoParams:
+              Title: Hello! Welcome to Amaro 101  
+              Content: "This site is meant to be a simple introduction to Amaro: it's history, production, common ingredients, types, and some examples."
+
+menu:
+    main:
+         -  identifier: About
+            name: About
+            url: /posts/what_is_amaro/
+            weight: 10
+         -  identifier: Ingredients
+            name: Ingredients
+            url: /posts/ingredients/
+            weight: 20
+         -  identifier: Types
+            name: Types
+            url: /posts/types/
+            weight: 30
+
