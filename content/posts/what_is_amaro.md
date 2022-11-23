@@ -4,12 +4,11 @@ date: 2022-11-21T17:44:32-08:00
 draft: false
 weight: 1
 cover:
-  image:
-  alt:
-  caption:
+  image: /images/amaro_class.jpeg
+  alt: amaro class
+  caption: photo from my first amaro class
 ---
 
-![amaro class](/images/amaro_class.jpeg)
 What is Amaro? (Plural: Amari)
 
 Italian word for bitter
