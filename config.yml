@@ -3,7 +3,7 @@ languageCode: en-us
 title: Amaro 101
 theme: PaperMod
 params:
-    defaultTheme: auto 
+    defaultTheme: dark 
 
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
