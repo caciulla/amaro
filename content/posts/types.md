@@ -9,9 +9,9 @@ cover:
   caption: A collection of Italian wine and amari behind the bar
 ---
 
-Amaro is not regulated so there are no strict classifications for different types of amaro. But certain distinctions can be made based on the the ingredients used and the flavor profile of the amaro.
+Amaro is not regulated. There are no strict classifications for different types of amaro. But certain distinctions can be made based on the the ingredients used and the flavor profile of the amaro.
 ![]()
-Most often the term Amaro refers to digestivos although aperitivos also fall into the category.
+Most often the term 'Amaro' refers to digestivos although aperitivos also fall into the category.
 
 ## Apertivos (aperitif)-
 
@@ -107,10 +107,10 @@ Below is an incomplete list of amari types to be used as a guide for discussing 
 > Amari producers in Italy argue that in order to be a true amaro it must be from Italy. Though without any formal structure or legal regulation there is nothing preventing manufacturers of bittersweet, alcoholic beverages from other European nations, inculding the United States, from classifying their products as Amaro.
 
 A few examples of arguably amaro beverages from countries outside Italy:
-    
+
     * Chartreuse
     * Jaegermeister
     * Underberg
     * Sauze
     * Malort
-    
+    * Benedictine

@@ -8,8 +8,8 @@ params:
     ShowPostNavLinks: true
     ShowBreadCrumbs: true
     homeInfoParams:
-              Title: Hello! Welcome to Amaro 101  
-              Content: "This site is meant to be a simple introduction to Amaro: it's history, production, common ingredients, types, and some examples."
+              Title: Welcome to Amaro 101  
+              Content: "The goal of this site is to create a brief introduction to amaro for servers, bartenders, and other service industry personnel.          This site should function as a short, 10 minute reference guide for new employees or as a quick reminder for experienced ones to help industry employees gain and maintain a solid foundation of knowledge for selling amaro to guests with confidence."
               
 
 menu:
