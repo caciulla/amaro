@@ -11,9 +11,7 @@ cover:
 
 Amaro is a loose classification for a group of herbal, bittersweet, aromatic Italian-made liqueurs.
 
-The word 'Amaro' is the Italian word for bitter. The plural is 'amari.'
-
-Amari date back hundreds of years in Italy, crafted in monasteries as medicinal treatments for a variety ailments.
+Amaro, plural 'amari', dates back hundreds of years in Italy, crafted in monasteries as medicinal treatments for a variety ailments.
 
 The basic composition of an amaro recipe includes mascerating herbs, roots, nuts, fruits, berries, bark, and flowers. The mixture is then steeped in alcohol for 3-4 weeks. After the set time has passed and the infusion is complete, the plant matter is filtered out and the alcohol is once again set to age, typically for an additional 2 weeks, though some producers age it for as long as a year.
 
