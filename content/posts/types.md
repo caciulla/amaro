@@ -8,10 +8,9 @@ cover:
   alt: A row of Italian wine and amari behind the bar
   caption: A collection of Italian wine and amari behind the bar
 ---
-
-Amaro is not regulated. There are no strict classifications for different types of amaro. But certain distinctions can be made based on the the ingredients used and the flavor profile of the amaro.
+When discussing different types of amari its important to remember that amaro is currently not regulated. Some producers are petitioning to have a D.O.P, denominazione di origine protetta (protected designation of origin), added to amari, similar to wines and cheese, but right now none exits. There are no strict classifications for different types of amaro. But certain distinctions can be made based on the the ingredients used and the flavor profile of the amaro.
 ![]()
-Most often the term 'Amaro' refers to digestivos although aperitivos also fall into the category.
+Most often the term 'Amaro' refers to digestivos (or digestif) although aperitivos (or apertif) also fall into the category. 
 
 ## Apertivos (aperitif)-
 

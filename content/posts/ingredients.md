@@ -15,7 +15,7 @@ Amaro is Italian for 'bitter'. As the name implies, the main characteristic that
 
 However, many bitter plants are not poisonous. In fact, they often possess strong medicinal qualities. Bitter agents have been used for centuries to treat a range of medical conditions.
 
-> <sp>For example: Cinchona bark has been used for centuries to treat malaria. It's also been used to treat: muscle cramps, bloating, loss of appetite, fever, the flu, colds, enlarged spleen, varicose veins, and some types of cancer.</sp>
+>    For example: Cinchona bark has been used for centuries to treat malaria. It's also been used to treat: muscle cramps, bloating, loss of appetite, fever, the flu, colds, enlarged spleen, varicose veins, and some types of cancer.
 
 The 'alarm effect' is actually your body's attempt to speed up the process of digestion in order to expel the potentially toxic plant. This produces an array of beneficial effect, including the production of bile, mucous, saliva, and gastric juice secretion.
 
@@ -40,7 +40,7 @@ Below is a list of bittering agents.
 
 <!-- A brief description of each one? Medicinal quality? History in medicine? Monks Doctors and Health elixirs? Percentage of components? Number of ingredients per amaro? Chartreuse? Benedictine?  -->
 
-They would pir the bitter agents with more pleasant herbal ingedients which not only contributed to a better flavor profile often also added their own healing properties, much like herbal tea. Many of these recipes remain close to the original, though with an increase in alcohol and sugar content.
+They would pair the bitter agents with more pleasant herbal ingedients which not only contributed to a better flavor profile these ingredients also added their own healing properties of the herbal remedy. Many of these recipes remain close to the original, though with an increase in alcohol and sugar content.
 
 Here are some common additional ingredients added to popular amari.
 
