@@ -83,9 +83,9 @@ The last aspect to consider is the base of an amaro infusion.
 Some Amari are made using wine as a base. Others are made from neutral spirit. Still
 others are made from a grape distillate.
 
-       Grape juice + distillation + aging = brandy.
+       * Grape juice + distillation + aging = brandy.
 
-       Grape pomace + must + distillation = 'grape distillate', or Grappa
+       * Grape pomace + must + distillation = grape distillate, or Grappa
 
 
 - Neutral spirit - also called rectified spirit, is produced by repeated distillation (or rectification) until achieving almost pure alcohol (95% in US) topped at 97.2% by
