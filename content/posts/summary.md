@@ -15,8 +15,8 @@ This means that, unlike whiskey or vodka where the flavor profile is fairly univ
 
 When I have a guest at my bar, I like to start them with a nice beginner's Amari, something entry level and relatively sweet like Amaro Nonino, then a standard like Averna, leading into something a bit more challenging like Braulio, and then finish off with a fernet like Luxardo.
 
-Taking my guests on this herbal tour of Italy lets me show how broad this little catagory of bitter beverages can be. From dark and strong to light with notes of caramel and citrus, I like to take my guest on a bit of a ride.
+Taking my guests on this herbal tour of Italy allows me to demonstrate how broad this little catagory of bitter beverages can be. From light and happy with notes of caramel and citrus to dark and brooding, and even earthy and vegetal, I like to take my guest on a real journey.
 
-And really, the best part about amaro is the experiences. The fun part is getting out there, finding something new, and trying it for yourself!
+And truly, the best part about amaro is the experience. The fun part is getting out there, finding something new, and trying it for yourself!
 
 ![](/images/amaroFlight.jpg)
