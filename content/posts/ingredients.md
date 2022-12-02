@@ -40,7 +40,7 @@ Below is a list of bittering agents.
 
 <!-- A brief description of each one? Medicinal quality? History in medicine? Monks Doctors and Health elixirs? Percentage of components? Number of ingredients per amaro? Chartreuse? Benedictine?  -->
 
-They would pair the bitter agents with more pleasant herbal ingedients which not only contributed to a better flavor profile these ingredients also added their own healing properties of the herbal remedy. Many of these recipes remain close to the original, though with an increase in alcohol and sugar content.
+They would pair the bittering agents with more pleasant herbal ingedients, which not only contributed to a better flavor profile these ingredients also added their own healing properties to the herbal remedy. Many amaro recipes remain close to the original medicinal recipe, though with an increase in alcohol and sugar content.
 
 Here are some common additional ingredients added to popular amari.
 
