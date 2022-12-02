@@ -17,7 +17,7 @@ However, many bitter plants are not poisonous. In fact, they often possess stron
 
 >    For example: Cinchona bark has been used for centuries to treat malaria. It's also been used to treat: muscle cramps, bloating, loss of appetite, fever, the flu, colds, enlarged spleen, varicose veins, and some types of cancer.
 
-The 'alarm effect' is actually your body's attempt to speed up the process of digestion in order to expel the potentially toxic plant. This produces an array of beneficial effect, including the production of bile, mucous, saliva, and gastric juice secretion.
+The 'alarm effect' is actually your body's attempt to speed up the process of digestion in order to expel the potentially toxic plant. This produces an array of beneficial effects, including the production of bile, mucous, saliva, and gastric juice secretion.
 
 Below is a list of bittering agents.
 
