@@ -93,4 +93,4 @@ Remember there are no steadfast rules within the production of amari.
 - Neutral spirit - also called rectified spirit, is produced by repeated distillation (or rectification) until achieving almost pure alcohol (95% in US) topped at 97.2% by
   process.
 
-- Grape distillate - high proof alcohol produced by distilling grape must and/or pomace. Repeated distillation achieves grape based neutral spirit.
+- Grape distillate - high-proof alcohol produced by distilling grape must and/or pomace. Repeated distillation achieves grape based neutral spirit.
