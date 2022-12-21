@@ -11,13 +11,13 @@ cover:
 
 ### A brief overview of bitter ingredients
 
-Amaro is Italian for 'bitter'. As the name implies, the main characteristic that distinguishes amaro from all other liqueurs is its bitterness. This bitterness triggers a survival mechanism built into us over thousands of years. Throughout evolution human bodies have grown a sort of alarm system to react to bitter ingredients. This is because, unlike sweet and salty things, bitter is often indictative of toxicity in a plant.
+Amaro is Italian for 'bitter'. As the name implies, the main characteristic that distinguishes amaro from other liqueurs is its bitterness. This bitterness triggers a survival mechanism built into us over thousands of years. Throughout evolution human bodies have grown a sort of alarm system to react to bitter ingredients. This is because, unlike sweet and salty things, bitter is often indicative of toxicity.
 
 However, many bitter plants are not poisonous. In fact, they often possess strong medicinal qualities. Bitter agents have been used for centuries to treat a range of medical conditions.
 
->    For example: Cinchona bark has been used for centuries to treat malaria. It's also been used to treat: muscle cramps, bloating, loss of appetite, fever, the flu, colds, enlarged spleen, varicose veins, and some types of cancer.
+> For example: Cinchona bark has been used for centuries to treat malaria. It's also been used to treat: muscle cramps, bloating, loss of appetite, fever, the flu, colds, enlarged spleen, varicose veins, and some types of cancer.
 
-The 'alarm effect' is actually your body's attempt to speed up the process of digestion in order to expel the potentially toxic plant. This produces an array of beneficial effects, including the production of bile, mucous, saliva, and gastric juice secretion.
+The 'alarm effect' is actually your body's attempt to speed up the process of digestion in order to expel the potential toxin. This produces an array of beneficial effects, including the production of bile, mucous, saliva, and gastric juice secretion which aid with digestion and bloating.
 
 Below is a list of bittering agents.
 
@@ -40,7 +40,7 @@ Below is a list of bittering agents.
 
 <!-- A brief description of each one? Medicinal quality? History in medicine? Monks Doctors and Health elixirs? Percentage of components? Number of ingredients per amaro? Chartreuse? Benedictine?  -->
 
-They would pair the bittering agents with more pleasant herbal ingedients, which not only contributed to a better flavor profile these ingredients also added their own healing properties to the herbal remedy. Many amaro recipes remain close to the original medicinal recipe, though with an increase in alcohol and sugar content.
+The bittering agents are also traditionally paired with more pleasant tasting, herbal ingedients. These ingredients add their own healing properties to the herbal remedy as well as adding flavor and complexity. Many amaro recipes remain allegedly identical to the original medicinal recipe, though with an increase in alcohol and sugar content.
 
 Here are some common additional ingredients added to popular amari.
 
@@ -76,17 +76,19 @@ Here are some common additional ingredients added to popular amari.
 * Myrrh
 ```
 
-![amaro ingredients on a cutting board](/images/ingredients.avif)
+### A General Guide to the Base of Amari Infusions
+
+![Graph of Amaro vs. Vermouths/Americanos/Quinquinas](/images/figJamGraphic.jpeg)
 
 The last aspect to consider is the base of an amaro infusion.
 
-Some Amari are made using wine as a base. Others are made from neutral spirit. Still
-others are made from a grape distillate.
+Most Amari are made from neutral spirit, though they are sometimes made using wine as a base. Still others are made from a grape distillate, a neutral spirit made from grapes. There are sometimes even Vermouth which have such a strong bitter characteristic they are known as "Amaro Vermouths".
+
+Remember there are no steadfast rules within the production of amari.
 
        * Grape juice + distillation + aging = brandy.
 
        * Grape pomace + must + distillation = grape distillate, or Grappa
-
 
 - Neutral spirit - also called rectified spirit, is produced by repeated distillation (or rectification) until achieving almost pure alcohol (95% in US) topped at 97.2% by
   process.

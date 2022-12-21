@@ -19,4 +19,4 @@ During the late 19th century amaro had it's golden age. As Italy became unified 
 
 Though the drink became available to a wide public audience, the production methods and recipes still now remain closely guarded family secrets. In fact even the most popular amari have divulged very few details about their production processes. The secretive nature of amari, each one a mystery in its own rite, is arguably one of the most characteristically defining qualities of the amaro industry.
 
-![Graph of Amaro vs. Vermouths/Americanos/Quinquinas](/images/figJamGraphic.jpeg)
+
