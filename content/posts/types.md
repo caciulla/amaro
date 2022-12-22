@@ -8,9 +8,10 @@ cover:
   alt: A row of Italian wine and amari behind the bar
   caption: A collection of Italian wine and amari behind the bar
 ---
-When discussing different types of amari its important to remember that amaro is currently not regulated. Some producers are petitioning to have a D.O.P, denominazione di origine protetta (protected designation of origin), added to amari, similar to wines and cheese, but right now none exits. There are no strict classifications for different types of amaro. But certain distinctions can be made based on the the ingredients used and the flavor profile of the amaro.
+
+When discussing different types of amari its important to remember that amaro is currently not regulated. Some producers are petitioning to have a D.O.P, denominazione di origine protetta (protected designation of origin) added to amari, similar to wines and cheese, but right now none exists. There are no strict classifications for different types of amaro. But certain distinctions can be made based on the ingredients used and the flavor profile of the amaro.
 ![]()
-Most often the term 'Amaro' refers to digestivos (or digestif) although aperitivos (or apertif) also fall into the category. 
+Most often the term 'Amaro' refers to digestivos (or digestif) although aperitivos (or apertif) also fall into the category.
 
 ## Apertivos (aperitif)-
 
@@ -30,28 +31,24 @@ Most often the term 'Amaro' refers to digestivos (or digestif) although aperitiv
 
 Below is an incomplete list of amari types to be used as a guide for discussing and organizing amari.
 
-- Light - light in color and bitterness. Usually low alcohol, hints of caramel, citrus,
-  botanical.
+- Light - light in color and bitterness. Usually low alcohol, hints of caramel, citrus, botanical.
   ![]()
-- Medium - darker in color. Higher bitterness. Can be more or less sweet depending.
-  Overall more powerful flavor profile.
+- Medium - darker in color. Higher bitterness. Can be more or less sweet depending on the producer. Overall more powerful flavor profile than the light.
   ![]()
-- Carciofo - artichoke Amari. Mild to strong vegetal tones.
+- Carciofo - artichoke based. Mild to strong vegetal tones. High bitterness.
   ![]()
-- Alpine - produced in northwestern Italy(Lombardy/Piedmont) lighter in body. Less sweet/citrus. More herbal/medicinal.
+- Alpine - produced in northwestern Italy (Lombardy/Piedmont) lighter in body. Less sweet/citrus. More herbal/medicinal.
   ![]()
-- Rabarbaro - also from northwest, infused with Chinese rhubarb, native to Italy since the 17th cent. Cloudy, smoky, vegetal, ebony colored, bitter yet sweet, balanced.
+- Rabarbaro - also from northwestern Italy, infused with Chinese rhubarb, native to Italy since the 17th century. This amari is cloudy, smoky, vegetal, ebony-colored, bitter yet sweet and balanced.
   ![]()
-- Fernet - very bitter. High alcohol. Thinner bodied. Very medicinal/herbal. Aloe Ferox is
-  typical base infusion. Fernet-Branca most well known.
+- Fernet - very bitter. High alcohol. Thinner bodied. Very medicinal/herbal. Aloe Ferox is typical base infusion. Fernet-Branca most well known.
   ![]()
-- Apertivos - have their own category of Amari. Usually more bitter than digestifs, brightly colored (orange, red, yellow), high citrus, super dry,
+- Apertivos - have their own category of amari. Usually more bitter than digestifs, brightly colored (orange, red, yellow), high citrus, super dry,
   ![]()
-- Vermouth Amaro -,from what I understand, these Amari differentiate from wine based
-  Amari in that they are fortified (add alcohol) to a lower proof (12-16%) making it more of
-  a vermouth than a typical amaro. This process also makes it necessary to refrigerate.
+- Vermouth Amaro - these amari differentiate from wine-based
+  amari in that they are fortified (add alcohol) to a lower proof (around 16%) making it more of a vermouth than a typical amaro. This process also makes it necessary to refrigerate.
 
-## Our amaro by category
+## Some Popular Amari by Category
 
 ### Light
 
@@ -70,16 +67,20 @@ Below is an incomplete list of amari types to be used as a guide for discussing 
 ### Carciofo
 
 - Cynar
+- Amaro Carciofo
+- Don Ciccio & Figli C3 Carciofo
 
 > ■ (Side note) Cardamaro is named after it’s base infusion of Cardoons (not cardamom). Cardoons and blessed thistle are both relatives of the artichoke but not close enough to be included in this category.
 
 ### Alpine
 
 - Braulio
+- Amaro Alta Verde
 
 ### Rabarbaro
 
 - Cappelletti Sfumato
+- Zucca Rabarbaro
 
 ### Fernet
 
