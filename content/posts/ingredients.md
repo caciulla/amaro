@@ -9,7 +9,7 @@ cover:
   caption:
 ---
 
-### A brief overview of bitter ingredients
+### A Brief Overview of Bitter Ingredients
 
 Amaro is Italian for 'bitter'. As the name implies, the main characteristic that distinguishes amaro from other liqueurs is its bitterness. This bitterness triggers a survival mechanism built into us over thousands of years. Throughout evolution human bodies have grown a sort of alarm system to react to bitter ingredients. This is because, unlike sweet and salty things, bitter is often indicative of toxicity.
 
@@ -21,7 +21,7 @@ The 'alarm effect' is actually your body's attempt to speed up the process of di
 
 Below is a list of bittering agents.
 
-### Common bittering ingredients:
+### Common Bittering Ingredients:
 
 ```
 * Cinchona bark
@@ -44,7 +44,7 @@ The bittering agents are also traditionally paired with more pleasant tasting, h
 
 Here are some common additional ingredients added to popular amari.
 
-### Common additional ingredients:
+### Common Additional Ingredients:
 
 ```
 * Cardamom
@@ -90,7 +90,7 @@ Remember there are no steadfast rules within the production of amari.
 
        * Grape pomace + must + distillation = grape distillate, or Grappa
 
-- Neutral spirit - also called rectified spirit, is produced by repeated distillation (or rectification) until achieving almost pure alcohol (95% in US) topped at 97.2% by
+- Neutral spirit - also called rectified spirit, is produced by repeated distillation (or rectification) until achieving almost pure alcohol, 95% in US, topped at 97.2% by
   process.
 
 - Grape distillate - high-proof alcohol produced by distilling grape must and/or pomace. Repeated distillation achieves grape based neutral spirit.
