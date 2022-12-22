@@ -104,9 +104,9 @@ Below is an incomplete list of amari types to be used as a guide for discussing 
 - Punt e mes
 - Cocchi Dopo Teatro
 
-> Amari producers in Italy argue that in order to be a true amaro it must be from Italy. Though without any formal structure or legal regulation there is nothing preventing manufacturers of bittersweet, alcoholic beverages from other European nations, inculding the United States, from classifying their products as Amaro.
+> Amari producers in Italy argue that in order to be a true amaro it must be from Italy. Though without any formal structure or legal regulation there is nothing preventing manufacturers of bittersweet, alcoholic beverages from other European nations, inculding the United States, from classifying their products as amaro.
 
-A few examples of arguably amaro beverages from countries outside Italy:
+A few examples of arguably amaro from countries outside Italy:
 
     * Chartreuse
     * Jaegermeister
@@ -114,3 +114,5 @@ A few examples of arguably amaro beverages from countries outside Italy:
     * Sauze
     * Malort
     * Benedictine
+    * Don Ciccio & Figli C3 Carciofo
+    * Fernet Francisco
